@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="alm_asset" label="table" max_length="40" name="x_121206_abhi_table" type="collection"/>
+</database>

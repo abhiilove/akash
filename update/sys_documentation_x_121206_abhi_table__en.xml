@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="table" language="en" table="x_121206_abhi_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>table</label>
+            <language>en</language>
+            <name>x_121206_abhi_table</name>
+            <plural>tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:45:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4248b6bf4f11130007a7b4a18110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table</sys_name>
+            <sys_package display_value="abhi" source="x_121206_abhi">cef7367b4f11130007a7b4a18110c75c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="abhi">cef7367b4f11130007a7b4a18110c75c</sys_scope>
+            <sys_update_name>sys_documentation_x_121206_abhi_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:45:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
